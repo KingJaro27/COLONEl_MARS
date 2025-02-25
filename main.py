@@ -39,7 +39,7 @@ def image_mars():
                 <head>
                     <meta charset="utf-8">
                     <link rel="stylesheet" type="text/css" href="{url_for('static', filename='css/style.css')}" />
-                    <title>Реклама</title>
+                    <title>MARS</title>
                   </head>
                   <body>
                   <h1>Жди нас, Марс!</h1>
